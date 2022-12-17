@@ -1,5 +1,5 @@
 # line_detector
-we built line detector model that can be used in line follower robot using camera instad of IR sensor
+In this repository I will share the **source code** of building line detector model that can be used in line follower robot using camera instad of IR sensor
 
 ## Table of Contents
 
