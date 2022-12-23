@@ -1,7 +1,7 @@
 # line_detector
 In this repository I will share the **source code** of building line detector model that can be used in line follower robot using camera instad of IR sensor
 
-<img src="media/line_detector.jpg" width="800"/>
+<img src="media/line_detector.gif" width="800"/>
 
 
 ## Table of Contents
