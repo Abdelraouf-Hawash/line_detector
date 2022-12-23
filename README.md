@@ -14,6 +14,7 @@ In this repository I will share the **source code** of building line detector mo
  
 #### [data](data)
  - the output of previous statge
+ - 4563 sample
  
 #### [scripts sklearn](scripts_sklearn)
  - In this script we build line detector model using  Multilayer perceptron classifier in sklearn
